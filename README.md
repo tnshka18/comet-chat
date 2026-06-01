@@ -50,3 +50,4 @@ src/
 
 Log in with any UID from your CometChat dashboard. Open incognito and log in as a second user to test real-time messaging.
 
+##Live Demo: https://comet-chat-u7sf.vercel.app/
